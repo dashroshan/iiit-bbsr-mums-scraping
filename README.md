@@ -10,7 +10,7 @@ Get latest notices as a list of dictionaries in the below format
     "date" : "YYYY-MM-DD",
     "for" : "For whom is the notice posted",
     "by" : "Who posted the notice",
-    "hasAttachment" : True or False
+    "hasAttachment" : True or False,
     "content" : "Notice text"
 }
 ```
